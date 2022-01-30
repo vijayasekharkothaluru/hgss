@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72096ce7-e756-437a-8789-d127f8d16161" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hgs_task" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="24H5U8UqShURUjMT2CVtFniC5el" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\hgs_task\hgs_task" />
+      <recent name="F:\hgs_task\testapp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="hgs_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hgs_task" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hgs_task/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="hgs_task" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\admin\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver 5656" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.__init__" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72096ce7-e756-437a-8789-d127f8d16161" name="Default Changelist" comment="" />
+      <created>1643274684718</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643274684718</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1643278491245">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1643278491245" />
+    <state x="487" y="421" width="852" height="399" key="#xdebugger.evaluate" timestamp="1643549449444">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="487" y="421" width="852" height="399" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1643549449444" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1643560514895">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1643560514895" />
+    <state width="1515" height="247" key="GridCell.Tab.0.bottom" timestamp="1643560244938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="247" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643560244938" />
+    <state width="1515" height="247" key="GridCell.Tab.0.center" timestamp="1643560244938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="247" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1643560244938" />
+    <state width="1515" height="247" key="GridCell.Tab.0.left" timestamp="1643560244938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="247" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1643560244938" />
+    <state width="1515" height="247" key="GridCell.Tab.0.right" timestamp="1643560244938">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="247" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1643560244938" />
+    <state width="1515" height="296" key="GridCell.Tab.1.bottom" timestamp="1643552277907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="296" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1643552277907" />
+    <state width="1515" height="296" key="GridCell.Tab.1.center" timestamp="1643552277907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="296" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1643552277907" />
+    <state width="1515" height="296" key="GridCell.Tab.1.left" timestamp="1643552277907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="296" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1643552277907" />
+    <state width="1515" height="296" key="GridCell.Tab.1.right" timestamp="1643552277907">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="296" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1643552277907" />
+    <state x="279" y="58" key="SettingsEditor" timestamp="1643560096619">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="58" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1643560096619" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1643560534283">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1643560534283" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1643552643455">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1643552643455" />
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1643515108188">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1643515108188" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testapp/forms.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testapp/forms.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testapp/forms.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
